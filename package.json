@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "silly-datetime": "^0.1.2",
+    "web3-eth-contract": "^1.8.0"
+  },
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
